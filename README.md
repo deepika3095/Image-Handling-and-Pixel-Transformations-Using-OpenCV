@@ -231,12 +231,13 @@ plt.show()
 - ![WhatsApp Image 2025-09-01 at 06 46 24_58dbb328](https://github.com/user-attachments/assets/4ec8eb0b-a52a-4cf5-aae3-d63c5ce6dcf6)
 
 - **iii)** Modify Image Contrast.
-- ![WhatsApp Image 2025-09-01 at 06 46 24_58dbb328](https://github.com/user-attachments/assets/6ce9aa7c-714e-4d43-8e15-c574b433a379)
+<img width="1737" height="655" alt="image" src="https://github.com/user-attachments/assets/51a583e9-98b7-4007-955b-53d6d4f429c8" />
 
 - **iv)** Generate Third Image Using Bitwise Operations.
-- ![WhatsApp Image 2025-09-01 at 06 46 24_58dbb328](https://github.com/user-attachments/assets/a8409acf-11eb-413b-9279-c6be051fee77)
-- ![WhatsApp Image 2025-09-01 at 06 46 24_58dbb328](https://github.com/user-attachments/assets/f9181664-2e3b-4f93-8d16-35c319cec866)
-- ![WhatsApp Image 2025-09-01 at 06 46 24_58dbb328](https://github.com/user-attachments/assets/572350db-8a29-4755-b8cb-2babcfc87cb1)
+<img width="1733" height="729" alt="image" src="https://github.com/user-attachments/assets/866114b6-3cad-4971-9624-41f63cc56319" />
+<img width="1418" height="845" alt="image" src="https://github.com/user-attachments/assets/8f7a6064-bf73-47f2-9d36-088d1b0e44be" />
+<img width="1157" height="843" alt="image" src="https://github.com/user-attachments/assets/efc47837-0a11-4bad-99a0-a7f436ea03f8" />
+
 
 
 ## Result:
